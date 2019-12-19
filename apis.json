@@ -1,10 +1,11 @@
 {
     "name": "Davra",
-    "description": "Accelerating The Journey To A Connected World. The only IoT AEP Platform available through all reputable System Integrators and IT Resellers globally.",
-    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28553-davra-com.jpg",
+    "description": "Davra???s RuBANtm solution has been designed from the ground up to completely control all elements of an IoT installation from initial deployment, through ongoing network and data management and our open API allows for the translation of raw sensor data ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2954-davra-networks.jpg",
     "tags": [
-        "api provider",
-        "have api"
+        "api service provider",
+        "have api",
+        "internet of things"
     ],
     "created": "2019-12-19",
     "modified": "2019-12-19",
@@ -14,14 +15,18 @@
         {
             "name": "Davra",
             "description": null,
-            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28553-davra-com.jpg",
-            "humanURL": "https:\/\/davra.com",
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2954-davra-networks.jpg",
+            "humanURL": "http:\/\/www.davranetworks.com\/",
             "baseURL": "",
             "tags": [],
             "properties": [
                 {
                     "type": "x-openapi",
                     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/davra-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/davra-postman-collection.json"
                 }
             ]
         }
@@ -29,8 +34,28 @@
     "include": [],
     "x-common": [
         {
+            "type": "Blog",
+            "url": "http:\/\/www.davranetworks.com\/news"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.davranetworks.com\/RSSRetrieve.aspx?ID=549&Type=RSS20"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/davra-networks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/davranetworks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/davra_iot"
+        },
+        {
             "type": "Website",
-            "url": "https:\/\/davra.com"
+            "url": "http:\/\/www.davranetworks.com\/"
         }
     ]
 }
